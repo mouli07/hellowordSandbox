@@ -46,7 +46,7 @@ pipeline {
 									
 									 cd src/gateway/HelloWorld
 									 sleep 20
-									 APP_STATUSCODE=\$(curl -X OPTIONS --silent --output /dev/stderr --write-out "%{http_code}" http://riddhithacker-eval-test.apigee.net/weatherapi/)
+									 APP_STATUSCODE=\$(curl -X OPTIONS --silent --output /dev/stderr --write-out "%{http_code}" http://riddhithacker-eval-test.apigee.net/helloworld/)
 									 if [ "\$APP_STATUSCODE" -eq 200 ]
 									 then
 									  echo "API is up and running"
