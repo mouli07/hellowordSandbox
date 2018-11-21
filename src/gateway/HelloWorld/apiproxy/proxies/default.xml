@@ -16,7 +16,7 @@
             <Request/>
             <Response>
                 <Step>
-                    <Name>Set-Payload-1</Name>
+                    <Name>Set-Payload</Name>
                 </Step>
             </Response>
             <Condition>(request.verb = "OPTIONS") and (proxy.pathsuffix = "/" or (proxy.pathsuffix MatchesPath "" ))</Condition>
