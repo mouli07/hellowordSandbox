@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><APIProxy name="HelloWorld" revision="1">
+    <Basepaths>/helloworld</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1542695631895</CreatedAt>
+    <CreatedBy>riddhi_thacker@yahoo.com</CreatedBy>
+    <Description>rithacke git: 7b36416f DIN16002491</Description>
+    <DisplayName>HelloWorld</DisplayName>
+    <LastModifiedAt>1542696275603</LastModifiedAt>
+    <LastModifiedBy>riddhi_thacker@yahoo.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f49ebf97862499a09d544cc6b05084fc4140153e05e4f39919fa9b30e8a4539e784d9eaa0cd4c7e51562a0a18f8e42dcd2f19ea032a59de37f26daa86c95b552</ManifestVersion>
+    <Policies>
+        <Policy>Set-Payload</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

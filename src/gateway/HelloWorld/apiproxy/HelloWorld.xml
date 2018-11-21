@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="HelloWorld">
+    <Basepaths>/helloworld</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1542695631895</CreatedAt>
+    <CreatedBy>riddhi_thacker@yahoo.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>HelloWorld</DisplayName>
+    <LastModifiedAt>1542696275603</LastModifiedAt>
+    <LastModifiedBy>riddhi_thacker@yahoo.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f49ebf97862499a09d544cc6b05084fc4140153e05e4f39919fa9b30e8a4539e784d9eaa0cd4c7e51562a0a18f8e42dcd2f19ea032a59de37f26daa86c95b552</ManifestVersion>
+    <Policies>
+        <Policy>Set-Payload</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
